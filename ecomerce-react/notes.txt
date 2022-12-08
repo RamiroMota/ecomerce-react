@@ -1,1 +1,1 @@
-01/05 Frontend Mentor: E-commerce product page [React.js y TailwindCSS] | min 2:23:34 https://www.youtube.com/watch?v=Xse5iJE6784
+02/05 Frontend Mentor: E-commerce product page [React.js y TailwindCSS] | min 31:29 https://www.youtube.com/watch?v=OJZI3tSDozE
